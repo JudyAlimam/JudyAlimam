@@ -16,7 +16,7 @@ My interests include Machine Learning, Deep Learning, Computer Vision, and build
 
 ## Featured Projects
 
-- - 🩺 **[Early Preeclampsia Risk Prediction](https://github.com/JudyAlimam/preeclampsia-risk-prediction)** — Machine learning framework for early risk prediction using multi-source maternal health data and robustness testing.
+ - 🩺 **[Early Preeclampsia Risk Prediction](https://github.com/JudyAlimam/preeclampsia-risk-prediction)** — Machine learning framework for early risk prediction using multi-source maternal health data and robustness testing.
 - 👗 **MoodCloset** — AI-powered outfit recommendation using computer vision, MobileNetV2, color analysis, and personalized recommendations.
 - 🧠 **EEG-Based Epileptic Seizure Detection** — Machine learning pipeline for detecting epileptic seizures from EEG signals.
 - ⌚ **[Smart Wearable Seizure Monitoring System](https://github.com/JudyAlimam/smart-wearable-seizure-monitoring)** — Award-winning software engineering project designing an AI-enabled wearable system for seizure monitoring, emergency alerts, and clinical reporting.
